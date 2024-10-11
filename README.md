@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akash Punchvedi
-- 👀 I’m interested in all things techy ;)
-- 🌱 I’m continuosly upskilling on Java, Web Dev.. to name a few!
+- 👀 Full Stack Software Developer 🧑‍💻🧑‍💻
+- 🌱 Continuosly upskilling on Java, MERN , C++  .. to name a few!
 - 💞️ I’m looking to collaborate on issues, tasks of codes and life in general!  
 - 📫 How to reach me akashpunchvedi1907@gmail.com
 - 😄 Pronouns: He/Him
